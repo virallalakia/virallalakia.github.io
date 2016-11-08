@@ -5,14 +5,9 @@ body {
 	font-size: 10px;
 }
 
-@media screen and (min-width: 481px) and (max-width: 640px) {
-	body {
-		font-size: 9px;
-	}
-}
 @media screen and (max-width: 480px) {
 	body {
-		font-size: 8px;
+		font-size: 9px;
 	}
 }
 
