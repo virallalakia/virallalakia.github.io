@@ -1,2 +1,5 @@
-# virallalakia.github.io
-A parent repository for my github projects
+My GitHub Projects
+---
+* **JSON Formatter**
+	An easy and handy formatter tool for JSON and JSON-like data.
+	[Viral Data Formatter](https://virallalakia.github.io/viral-data-formatter/)
