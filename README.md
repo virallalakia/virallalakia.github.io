@@ -1,5 +1,5 @@
 My GitHub Projects
 ---
-* **JSON Formatter**  
-	An easy and handy formatter tool for JSON and JSON-like data.  
-	[Viral Data Formatter | JSON Formatter](https://virallalakia.github.io/viral-data-formatter/)  
+* **Online JSON Formatter**  
+	An easy, handy and online tool to format JSON and JSON-like data.  
+	[Online JSON Formatter](https://virallalakia.github.io/json-formatter/)  
