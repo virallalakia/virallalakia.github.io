@@ -10,6 +10,7 @@
 	GitHub project: https://github.com/virallalakia/js-shortcut/  
 	Docs: https://github.com/virallalakia/js-shortcut#js-shortcut  
 	Demo page: https://virallalakia.github.io/js-shortcut/  
+
 	Download latest js-shortcut - JavaScript utility:
 	  * [The compressed, production viral-shortcut-1.0.0](https://cdn.rawgit.com/virallalakia/js-shortcut/master/dist/js/viral-shortcut-1.0.0.min.js)
 	  * [The uncompressed, development viral-shortcut-1.0.0](https://cdn.rawgit.com/virallalakia/js-shortcut/master/dist/js/viral-shortcut-1.0.0.js)
@@ -19,6 +20,7 @@
 	GitHub project: https://github.com/virallalakia/js-ripple-click  
 	Docs: https://github.com/virallalakia/js-ripple-click#js-ripple-click  
 	Demo page: https://virallalakia.github.io/js-ripple-click/  
+
 	Download latest js-ripple-click - JavaScript utility:
 	  * [The compressed, production viral-ripple-click-1.0.0](https://cdn.rawgit.com/virallalakia/js-ripple-click/master/dist/js/viral-ripple-click-1.0.0.min.js)
 	  * [The uncompressed, development viral-ripple-click-1.0.0](https://cdn.rawgit.com/virallalakia/js-ripple-click/master/dist/js/viral-ripple-click-1.0.0.js)
