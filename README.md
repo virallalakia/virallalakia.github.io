@@ -8,7 +8,7 @@
 * **viral-shortcut.js**  
 	An easy to use JavaScript utility to use shortcuts with JavaScript or jQuery.  
 	GitHub project: https://github.com/virallalakia/js-shortcut/  
-	Docs: https://github.com/virallalakia/js-shortcut#js-shortcut  
+	Docs: https://github.com/virallalakia/js-shortcut/blob/master/README.md#js-shortcut  
 	Demo page: https://virallalakia.github.io/js-shortcut/  
 
 	Download latest js-shortcut - JavaScript utility:
@@ -18,7 +18,7 @@
 * **viral-ripple-click.js**  
 	A JavaScript utility for Ripple effect on click on different HTML elements.  
 	GitHub project: https://github.com/virallalakia/js-ripple-click  
-	Docs: https://github.com/virallalakia/js-ripple-click#js-ripple-click  
+	Docs: https://github.com/virallalakia/js-ripple-click/blob/master/README.md#js-ripple-click  
 	Demo page: https://virallalakia.github.io/js-ripple-click/  
 
 	Download latest js-ripple-click - JavaScript utility:
