@@ -2,8 +2,8 @@
 
 ## Online JSON Formatter
 An easy, handy and online tool to format JSON and JSON-like data.
-* GitHub project: [https://github.com/virallalakia/json-formatter/](https://github.com/virallalakia/json-formatter/)
 * Tool: [https://virallalakia.github.io/json-formatter/](https://virallalakia.github.io/json-formatter/)
+* GitHub project: [https://github.com/virallalakia/json-formatter/](https://github.com/virallalakia/json-formatter/)
 
 ## ViralFileCrypt
 A very fast, simple and easy to use file encryption/decryption tool.  
